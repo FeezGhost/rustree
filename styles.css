@@ -1,0 +1,28 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.color-prim{
+    background-color: #0097ce !important;
+    color: white !important;
+}
+
+.myBtn {
+    all: unset;
+    cursor: pointer;
+    color: white;
+}
+.plus-icon{
+    font-weight: bolder;
+    font-size: x-large;
+    margin-right: 8px;
+}
+.btn{
+    border-radius: 10px !important;
+}
