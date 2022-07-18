@@ -32,3 +32,6 @@ body{
 .btn{
     border-radius: 10px !important;
 }
+select{
+    font-size: small !important;
+}
